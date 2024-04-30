@@ -1,7 +1,9 @@
 # Fuentes-de-alimentacion-regulada-DC
 
-Traducción del libro: Analog Audio Amplifier Design, John C.M. Lam, 2024.
-                     Cap. 14 "DC Regulated Power Supplies"    
+Traducción del libro: "Analog Audio Amplifier Design", John C.M. Lam, 2024.
+                     Cap. 14 "DC Regulated Power Supplies"  
+
+                     
 
 Mucha gente ha descubierto que es difícil diseñar un buen amplificador de audio. Bueno, eso se debe a que se necesita tiempo para desarrollar
 las habilidades y los conocimientos. Sin embargo, la gente también ha descubierto que es aún más difícil fabricar un ampificador de audio que produzca un buen sonido.
