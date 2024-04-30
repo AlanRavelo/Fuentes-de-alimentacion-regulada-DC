@@ -21,6 +21,8 @@ La figura 1.9(a) es una fuente de alimentación regulada simplede 15V que utiliz
 
 El LM317 es un regulador ajustable que requiere solo dos resistores externos: R1 y R2, para configurar un voltaje de salida de hasta 37V.
 
+Hay reguadores ajustables de 3 termianles que ofrecen voltajes de salida más altos. Por ejemplo, el LM317AHV entrega 57V mientras que el TL783 entrega 12V. En este ejemplo, la salida es de 15V para una corriente de hasta 1.5A.
+
 
 
 
