@@ -23,6 +23,9 @@ El LM317 es un regulador ajustable que requiere solo dos resistores externos: R1
 
 Hay reguadores ajustables de 3 termianles que ofrecen voltajes de salida más altos. Por ejemplo, el LM317AHV entrega 57V mientras que el TL783 entrega 12V. En este ejemplo, la salida es de 15V para una corriente de hasta 1.5A.
 
+![TPA3118D2_prototipo_20230210](https://github.com/AlanRavelo/Fuentes-de-alimentacion-regulada-DC/assets/88397949/02c5ebb6-8b9b-42f2-a091-bd3325cfca20)
+
+
 
 
 
